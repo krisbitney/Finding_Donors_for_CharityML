@@ -14,5 +14,8 @@ An educational supervised learning project. The goal is to predict donors for a 
 
 Model performance was measured using four metrics: accuracy, precision, recall, and F-score.
 
+## Required libraries                       
+This project uses Numpy, Pandas, Pyplot, Scikit-Learn, and Jupyter.
+
 ### Some code was provided by Udacity for guidance
 Udacity provided the `visuals.py` Python file and the `census.csv` dataset file, which were required to complete the work. Udacity reminds students that "...the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate." Udacity also provided some template code within the Jupyter notebook to guide students in the right direction.
