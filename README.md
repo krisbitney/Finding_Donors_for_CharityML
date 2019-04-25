@@ -14,7 +14,7 @@ An educational supervised learning project. The goal is to predict donors for a 
 
 Model performance was measured using four metrics: accuracy, precision, recall, and F-score.
 
-## Required libraries                       
+### Required libraries                       
 This project uses Numpy, Pandas, Pyplot, Scikit-Learn, and Jupyter.
 
 ### Some code was provided by Udacity for guidance
