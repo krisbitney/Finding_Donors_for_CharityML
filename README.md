@@ -1,4 +1,4 @@
-# Finding_Donors_for_CharityML
+# Finding Donors for CharityML
 An educational supervised learning project. The goal is to predict donors for a fictional non-profit organization. For this project, I completed the following tasks:
 1. Explored data
 2. Transformed and scaled features
